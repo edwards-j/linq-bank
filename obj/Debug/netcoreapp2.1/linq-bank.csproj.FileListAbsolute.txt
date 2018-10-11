@@ -1,0 +1,11 @@
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/bin/Debug/netcoreapp2.1/linq-bank.deps.json
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/bin/Debug/netcoreapp2.1/linq-bank.runtimeconfig.json
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/bin/Debug/netcoreapp2.1/linq-bank.runtimeconfig.dev.json
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/bin/Debug/netcoreapp2.1/linq-bank.dll
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/bin/Debug/netcoreapp2.1/linq-bank.pdb
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/obj/Debug/netcoreapp2.1/linq-bank.csprojAssemblyReference.cache
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/obj/Debug/netcoreapp2.1/linq-bank.csproj.CoreCompileInputs.cache
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/obj/Debug/netcoreapp2.1/linq-bank.AssemblyInfoInputs.cache
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/obj/Debug/netcoreapp2.1/linq-bank.AssemblyInfo.cs
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/obj/Debug/netcoreapp2.1/linq-bank.dll
+/Users/jonathan_edwards/workspace/csharp/exercises/linq-bank/obj/Debug/netcoreapp2.1/linq-bank.pdb
